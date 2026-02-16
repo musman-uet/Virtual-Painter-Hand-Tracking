@@ -9,7 +9,7 @@ A virtual painting application that lets you draw in the air using hand gestures
 - Adjustable brush size
 
 ## Demo
-[Add your video link here or upload demo.mp4]
+https://www.linkedin.com/posts/usmman_computervision-python-ai-ugcPost-7424714288524718080-blrI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFw02cBGd0fr2lAMp9oVO2uC-LqBjF0qKo
 
 ## Installation
 
@@ -40,3 +40,4 @@ python painter.py
 - OpenCV
 - MediaPipe
 - NumPy
+
